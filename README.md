@@ -1,4 +1,4 @@
-"""# 🚀 Submit Button Animation
+# 🚀 Submit Button Animation
 
 A visually engaging animated submit button built using **HTML**, **CSS**, and **JavaScript**. This project features a hover-triggered scanning effect and smooth transitions that enhance the look and feel of modern web forms.
 
